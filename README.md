@@ -38,7 +38,9 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img_for_readme/1.png)
+![Example screenshot](./img_for_readme/2.png)
+![Example screenshot](./img_for_readme/3.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
