@@ -53,7 +53,7 @@ If decoding:
 ## Room for Improvement
 
 To do:
-- Option that allows to directly send encrypted message to someone's mail, option to log in to our mail and to specify receiver's mail
+- Option that allows to directly send encrypted message to someone's mail, option to log in to your mail and to specify receiver's mail
 
 
 ## Contact
