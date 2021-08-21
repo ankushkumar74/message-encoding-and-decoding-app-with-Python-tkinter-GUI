@@ -1,6 +1,5 @@
 # Project Name
 > Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -9,9 +8,7 @@
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
-* [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
@@ -25,9 +22,9 @@
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Python 3.9
+- Python built-in tkinter library
+- Python base64 library
 
 
 ## Features
@@ -45,43 +42,35 @@ List the ready features here:
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
+You have to have installed Python 3.x and base64 via:
+`pip install pybase64`
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
+Two persons or more need to have this app on their computers.
+Create your key you and your receiver will use and remember it.
 
-`write-your-code-here`
+After opening app, if encoding:
+1. Write a message
+2. Write the key
+3. Click encoding
+4. Copy your encoded message from 'Result' place and send it to someone
 
-
-## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+If decoding:
+1. Put a encrypted message you received
+2. Write the key
+3. Click decoding
+4. Read your decrypted message from 'Result' place
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
-
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- Option that allows to directly send encrypted message to someone's mail, option to log in to our mail and to specify receiver's mail
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Mail: michvlbbb@gmail.com
 
 
 <!-- Optional -->
